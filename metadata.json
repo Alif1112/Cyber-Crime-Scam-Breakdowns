@@ -1,0 +1,6 @@
+{
+  "name": "পিগ বুচারিং স্ক্যাম সচেতনতা",
+  "description": "সাইবার ক্রাইম ইতিহাসের সবচেয়ে ভয়ংকর 'পিগ বুচারিং' স্ক্যাম সম্পর্কে জানুন এবং নিজেকে সুরক্ষিত রাখুন।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
